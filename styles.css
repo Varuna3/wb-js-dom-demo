@@ -1,13 +1,13 @@
 html {
-    background-color: bisque;
+  background-color: bisque;
 }
 
 .blue {
-    background-color:cornflowerblue;
+  background-color: cornflowerblue;
 }
 
 form {
-    border: 2px groove;
-    padding: 2%;
-    margin: 2%;
+  border: 2px groove;
+  padding: 2%;
+  margin: 2%;
 }
